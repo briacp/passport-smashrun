@@ -1,0 +1,31 @@
+{
+  "name": "passport-smashrun",
+  "version": "0.1.0",
+  "description": "Smashrun OAuth2 authentication strategy for Passport.",
+  "homepage": "http://github.com/briacp/passport-smashrun",
+  "main": "lib/passport-smashrun",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/briacp/passport-smashrun.git"
+  },
+  "bugs": {
+    "url": "http://github.com/briacp/passport-smashrun/issues"
+  },
+  "keywords": [
+    "passport",
+    "smashrun",
+    "authentication",
+    "oauth2"
+  ],
+  "author": {
+    "name": "Briac Pilpré",
+    "email": "briacp@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/briacp/passport-smashrun#readme",
+  "dependencies": {
+    "passport-oauth": "~1.0.0",
+    "pkginfo": "~0.3.1"
+  },
+  "engines": { "node": ">= 0.4.0" }
+}
